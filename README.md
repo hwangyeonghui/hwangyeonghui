@@ -1,4 +1,4 @@
-### I wanna be a full-stack developer *⸌☻ັ⸍*
+### wanna be a full-teck stack developer *⸌☻ັ⸍*
 
 <!--
 **hwangyeonghui/hwangyeonghui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
