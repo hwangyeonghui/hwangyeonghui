@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&customColorList=28&height=300&section=footer&text=There%20are%20no%20shortcuts%20to%20any%20place%20worth%20going.&animation=twinkling&fontColor=dcdcdc&fontSize=20&fontAlign=31&fontAlignY=90)
+<img src="https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?cs=srgb&dl=pexels-philippe-donn-1169754.jpg&fm=jpg" width="1000" height="370">
 
 <h3 align="center"><b>＊*•̩̩͙✩•̩̩͙*＊ What i can do it ＊*•̩̩͙✩•̩̩͙*＊</b></h3>
 </br>
