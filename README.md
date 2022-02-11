@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 <h3 align="center"><b>＊*•̩̩͙✩•̩̩͙*＊ contact to me ＊*•̩̩͙✩•̩̩͙*＊</b></h3>
 </br>
 <p align="center">
-<a href="mailto:nsun14363@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nsun14363@gmail.com"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox"/></a>
 <a href="https://www.instagram.com/1yhh1"><img src="https://img.shields.io/badge/instagram-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://www.instagram.com/1yhh1"/></a>
